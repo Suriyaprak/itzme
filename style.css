@@ -225,7 +225,7 @@ body {
   background: 50% 100%/50% 50% no-repeat radial-gradient(ellipse at bottom, #fff, transparent, transparent);
   -webkit-background-clip: text;
   background-clip: text;
-  color: hsl(128, 80%, 62%);
+  color:white;
   font-size: 3vw;
   font-family: "Source Sans Pro", sans-serif;
   -webkit-animation: reveal 3000ms ease-in-out forwards 200ms, glow 2500ms linear infinite 2000ms;
